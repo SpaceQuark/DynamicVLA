@@ -181,3 +181,7 @@ ipython_config.py
 datasets/
 notebooks/
 runs/
+
+
+scenes/
+tests/
